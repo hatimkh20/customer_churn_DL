@@ -1,2 +1,2 @@
-# customer_churn_DL
+# Customer Churn Prediction
 Bank customer churn prediction
